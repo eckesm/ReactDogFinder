@@ -1,0 +1,29 @@
+.DogList {
+	margin: 25px;
+}
+
+.DogList-header {
+	margin: 0px;
+}
+
+.DogList-subheader {
+	margin: 0px;
+	margin-top: 5px;
+}
+
+.DogList-links {
+	width: 300px;
+	align-self: center;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 1px solid darkblue;
+	background-color: rgba(32, 178, 171, 0.25);
+}
+
+.DogList-link {
+	margin: 5px;
+	color: darkblue;
+	display: block;
+}

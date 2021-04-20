@@ -1,0 +1,14 @@
+.Nav{
+    background-color: lightseagreen;
+    padding: 5px;
+    border-bottom: 1px solid darkblue;
+}
+
+.Nav a{
+    margin: 10px;
+    color: darkblue;
+}
+
+.Nav a.active{
+    font-weight: bold;
+}

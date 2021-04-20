@@ -1,0 +1,30 @@
+.DogDetails-image {
+	width: 250px;
+}
+
+.DogDetails-age {
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+.DogDetails-factsheading {
+	margin-bottom: 0px;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.DogDetails-facts {
+	width: 300px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 1px solid darkblue;
+    background-color: rgba(32, 178, 171, 0.25);
+}
+
+.DogDetails-fact {
+    text-align: left;
+	margin-left: 15px;
+    color: darkblue;
+}
